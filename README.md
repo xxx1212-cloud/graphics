@@ -240,6 +240,8 @@ public class MainActivity3 extends AppCompatActivity {
         android:layout_marginEnd="148dp"
         android:text="Blink" />
 </RelativeLayout>
+
+
 <alpha xmlns:android="http://schemas.android.com/apk/res/android"
     android:toAlpha="0.0"
     android:fromAlpha="1.0"
